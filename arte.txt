@@ -1,0 +1,2 @@
+En este codigo se probara la compatibilidad del arte con las mecanicas del juego.
+Para que tenga un correcto funcionamiento
