@@ -1,0 +1,1 @@
+Se agregaron varias imagenes en la carpeta de resources para el desarrollo del proyecto

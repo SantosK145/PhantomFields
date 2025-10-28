@@ -1,1 +1,3 @@
 Se creo la rama develop que sera el area de produccion.
+
+Se creo la rama feature/resources
