@@ -5,3 +5,9 @@ SISTEMA BÁSICO DE GRANJA:
 - Gestión de recursos: semillas, agua y herramientas
 - Ciclo día/noche que afecta el crecimiento
 - Almacenamiento de cultivos en granero
+
+SISTEMA DE MISTERIOS:
+- 4 misterios principales repartidos en diferentes áreas
+- Pistas ocultas en objetos de la granja
+- NPCs con información fragmentada
+- Eventos aleatorios que revelan secretos
