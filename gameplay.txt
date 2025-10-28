@@ -17,3 +17,10 @@ PROGRESIÓN Y OBJETIVOS:
 - Resolver misterios para desbloquear habilidades especiales
 - Recolectar artefactos antiguos que cuentan la historia
 - Mejorar herramientas mediante la resolución de puzzles
+
+ELEMENTOS ESPECIALES:
+- Cultivos mágicos que revelan visiones del pasado
+- Túneles secretos bajo la granja
+- Fantasmas que dan pistas durante la noche
+- Recompensas por resolver misterios: nuevas semillas, áreas y habilidades
+- Final alternativo dependiendo del orden de resolución de misterios
