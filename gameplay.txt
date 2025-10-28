@@ -11,3 +11,9 @@ SISTEMA DE MISTERIOS:
 - Pistas ocultas en objetos de la granja
 - NPCs con información fragmentada
 - Eventos aleatorios que revelan secretos
+
+PROGRESIÓN Y OBJETIVOS:
+- Expandir la granja descubriendo nuevas áreas
+- Resolver misterios para desbloquear habilidades especiales
+- Recolectar artefactos antiguos que cuentan la historia
+- Mejorar herramientas mediante la resolución de puzzles
