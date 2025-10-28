@@ -1,0 +1,9 @@
+El protagonista (jugador): Hereda la granja después de la muerte de su abuelo. De pequeño escuchaba historias sobre “el guardián del valle”.
+
+Abuelo Elías: (Fallecido) Dejó una serie de notas en un viejo cuaderno que guían al jugador a descubrir la verdad.
+
+Lina: La bibliotecaria local, experta en historia y leyendas. Ayuda con traducciones antiguas y a interpretar pistas.
+
+Tomás: Herrero del pueblo, escéptico pero protector. Fabricará herramientas especiales si confías en él.
+
+El Forastero: Un viajero que aparece solo de noche, siempre cerca de los lugares donde ocurren los fenómenos.
