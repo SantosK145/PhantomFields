@@ -1,0 +1,7 @@
+JUGABILIDAD - GRANJA 2D MISTERIOS
+
+SISTEMA BÁSICO DE GRANJA:
+- Cultivo de plantas: sembrar, regar y cosechar
+- Gestión de recursos: semillas, agua y herramientas
+- Ciclo día/noche que afecta el crecimiento
+- Almacenamiento de cultivos en granero
